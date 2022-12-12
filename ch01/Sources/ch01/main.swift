@@ -1,2 +1,2 @@
-var lastName = "Banner"
+let lastName = "Banner"
 print("Hello, \(lastName)!")
